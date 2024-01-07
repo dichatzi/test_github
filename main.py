@@ -13,5 +13,7 @@ if __name__ == "__main__":
     print("Starting code execution")
 
     Dimitris = People(name="Dimitris", surname="Chatzigiannis")
-
     Dimitris(38)
+
+    Michalis = People(name="Michalis", surname="Kazdaglis")
+    Michalis(40)
